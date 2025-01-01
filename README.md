@@ -4,7 +4,7 @@ genuary 2025 stuff
 
 ## day 1
 
-![a collage of four multi colored images of random weave patterns generated using only horizontal and vertical lines](day1.json)
+![a collage of four multi colored images of random weave patterns generated using only horizontal and vertical lines](day1.jpg)
 
 started on a base of [@tenprint](https://github.com/alien-sunset/tracery-bots/tree/main/TenPrint) 's Tracery.
 
