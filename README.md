@@ -29,3 +29,14 @@ Layers upon layers upon layers.
 inspired by some of the works of [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r), this idea had actually been percolating in the back of my mind for a while, but i just kept getting distracted.
 
 also sorta counts as day 3, as the Tracery (with spaces) is exactly 42 lines. which is nice as I have an appointment tomorrow and won't be able to do much else.
+
+
+### day 4
+
+Black on black.
+
+![a collage of four images with alt text, each is a black square with very dark, almost black multicolored, circles of various sizes scattered about with similarly dark multicolored lines crisscrossing it over everything.](day4.jpg)
+
+I dunno, it kiiiinda fits, these are all "hues" of black, yeeeah. i was going fo a kinda "dark laser show" kinda look, and I think i get that pretty well.
+Either way it looks kinda cool, and I’m pretty happy with the outcome, even if it can be extra hard to tell whats going on on especially dark/high contrast screens.
+
