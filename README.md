@@ -40,3 +40,15 @@ Black on black.
 I dunno, it kiiiinda fits, these are all "hues" of black, yeeeah. i was going fo a kinda "dark laser show" kinda look, and I think i get that pretty well.
 Either way it looks kinda cool, and I’m pretty happy with the outcome, even if it can be extra hard to tell whats going on on especially dark/high contrast screens.
 
+
+### day 5 & 6
+
+Isometric Art & Make a landscape using only primitive shapes
+
+![a collage of four images, each is a square with a blue gradient going from top to bottom, superimposed on top of this is a flat isometric plane made of cubes of various shades of greens -"grass", sometimes this plane has a small patch of squares made of various shades of blue, with pale beige squares bordering the green on the righthand front edge - "water and sand", or a hill will various shades of brown on its sides in the back corner, or a small tree on it's lefthand corner, or two, all three, each built out of small cubes.](day5-6.jpg)
+
+![a square with a blue gradient going from top to bottom, superimposed on top of this is a flat isometric plane made of cubes of various shades of greens -"grass", there is a small patch of squares made of various shades of blue, with pale beige squares bordering the green on the righthand front edge - "water and sand", a hill will various shades of brown on its sides in the back corner, and a small tree on it's lefthand corner, each built out of small cubes. there is a small Minecraft sheep in the grassy area.](day5-6_bonus.jpg)
+
+ok, I admit it, I like playing Minecraft. I wasn't sure what I was going to do for day five OR six, and certainly wasn't planning on combining them in the beginning, but then the idea just struck me one evening while my family was playing together.
+
+was pretty fun overall, and I got to really work my spacial thinking muscles to make the cubes and put everything together properly.
