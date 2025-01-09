@@ -52,3 +52,22 @@ Isometric Art & Make a landscape using only primitive shapes
 ok, I admit it, I like playing Minecraft. I wasn't sure what I was going to do for day five OR six, and certainly wasn't planning on combining them in the beginning, but then the idea just struck me one evening while my family was playing together.
 
 was pretty fun overall, and I got to really work my spacial thinking muscles to make the cubes and put everything together properly.
+
+### day 7
+
+Use software that is not intended to create art or images.
+
+![a collage of several screenshots from the game Minecraft, the player is looking at several famous pieces of art that have been rendered into pixel art via MapArt using Minecraft's in world mapping feature.](day7.png)
+
+I originally wasn't going to submit anything for this day as i had a self imposed challenge of doing everything via tracery and/or svg. but i was reminded of all the map art i had made in my family's season 4 Minecraft server. when Minecraft is ostensibly a survival/building/farming sim/sandbox game and not really made for generating visual art.
+
+
+### day 8
+
+Draw one million of something.
+
+![a collage of several images: starting with one with a grouping of multicolored stars, then a smattering of several groupings, then a larger covering of multiple groupings then finally six images of groupings upon groupings - approximately ten thousand stars per image](day8.jpg)
+
+![a short double speed screenshot video a mouse clicks teh reload button on a web browser displaying a black square covered in a million multip colored stars. the square clears and the program begins drawing more stars, the center qucily fills up and then batches slowly continue appearing, layering on top untill finished.](day8.mp4)
+
+this one kinda killed my poor computer... a million is A LOT! this is all tracery/JavaScript rendering into SVG it took several seconds to finish processing the tracery and then over two minutes to finish drawing all the stars. I’m sure i could have chosen something smaller/simpler to draw for this one, but what would the fun have been in that?
