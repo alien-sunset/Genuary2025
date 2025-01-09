@@ -68,6 +68,6 @@ Draw one million of something.
 
 ![a collage of several images: starting with one with a grouping of multicolored stars, then a smattering of several groupings, then a larger covering of multiple groupings then finally six images of groupings upon groupings - approximately ten thousand stars per image](day8.jpg)
 
-![a short double speed screenshot video a mouse clicks teh reload button on a web browser displaying a black square covered in a million multip colored stars. the square clears and the program begins drawing more stars, the center qucily fills up and then batches slowly continue appearing, layering on top untill finished.](day8.mp4)
+![a short double speed screenshot video a mouse clicks teh reload button on a web browser displaying a black square covered in a million multi colored stars. the square clears and the program begins drawing more stars, the center quickly fills up and then batches slowly continue appearing, layering on top until finished.](day8.mp4)
 
 this one kinda killed my poor computer... a million is A LOT! this is all tracery/JavaScript rendering into SVG it took several seconds to finish processing the tracery and then over two minutes to finish drawing all the stars. I’m sure i could have chosen something smaller/simpler to draw for this one, but what would the fun have been in that?
