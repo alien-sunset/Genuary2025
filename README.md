@@ -71,3 +71,17 @@ Draw one million of something.
 ![a short double speed screenshot video a mouse clicks teh reload button on a web browser displaying a black square covered in a million multi colored stars. the square clears and the program begins drawing more stars, the center quickly fills up and then batches slowly continue appearing, layering on top until finished.](day8.mp4)
 
 this one kinda killed my poor computer... a million is A LOT! this is all tracery/JavaScript rendering into SVG it took several seconds to finish processing the tracery and then over two minutes to finish drawing all the stars. I’m sure i could have chosen something smaller/simpler to draw for this one, but what would the fun have been in that?
+
+
+### Day 9
+
+The textile design patterns of public transport seating.
+
+![a collage of four images: each with a variety of patterns on dark red/purple/blue/green backgrounds, with randomly colored and placed circles, triangles, stars, spirals, hashes and/or diagonal lines. the upper left image is a large pink zig zag like swoosh over a dark red background, ot top of this stars and circles of varying levels of opacity are scattered as well a few confetti like spirals. the upper right is a large grouping of semi opaque multi colored lines criss crossing over the dark blue background, like a laser show gone wild, spotted with semi see through multi colored circles of various sizes. the lower left is a small smattering of multi colored laser like lines criss crossing over a dark green background with multi colored triangles, rainbow hash marks and confetti like spirals, and the final image is a dark purple background covered in randomly placed, multicolored circles, stars and triangles.](day9.jpg)
+
+![a 45 second video of a colorful square cycling through various iterations of the patterns from the image above, each with a variety of patterns on dark red/purple/blue/green backgrounds, with randomly colored and placed circles, triangles, stars, spirals, hashes and/or diagonal lines.](day9.mp4)
+
+this one was a lot of fun.
+I see that a lot of people created copies or homages to certain popular patterns, ans I suppose mine is similar in a way, the "random confetti of shapes" idea was inspired by the pattern on a tour bus I once rode in to go see The Phantom of the Opera in Toronto when I was in HS. it's amazing what random little details will stick with you.
+(astute observers will notice that the dark blue laser-circles square is actually a revamp from day 4, it looked so cool, i couldn't resist.)
+
