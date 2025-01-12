@@ -82,6 +82,7 @@ The textile design patterns of public transport seating.
 ![a 45 second video of a colorful square cycling through various iterations of the patterns from the image above, each with a variety of patterns on dark red/purple/blue/green backgrounds, with randomly colored and placed circles, triangles, stars, spirals, hashes and/or diagonal lines.](day9.mp4)
 
 this one was a lot of fun.
-I see that a lot of people created copies or homages to certain popular patterns, ans I suppose mine is similar in a way, the "random confetti of shapes" idea was inspired by the pattern on a tour bus I once rode in to go see The Phantom of the Opera in Toronto when I was in HS. it's amazing what random little details will stick with you.
+I see that a lot of people created copies or homages to certain popular patterns, and I suppose mine is similar in a way, the "random confetti of shapes" idea was inspired by the pattern on a tour bus I once rode in to go see The Phantom of the Opera in Toronto when I was in HS. it's amazing what random little details will stick with you.
 (astute observers will notice that the dark blue laser-circles square is actually a revamp from day 4, it looked so cool, i couldn't resist.)
 
+## skipping days 10 & 11
